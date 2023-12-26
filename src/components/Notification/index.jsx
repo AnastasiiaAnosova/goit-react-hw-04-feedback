@@ -1,8 +1,6 @@
-import React from 'react'
-
-const Notification = ({message}) => {
+const Notification = ({ message }) => {
   return (
-      <p>{message}</p>
+    <p>{message}</p>
   )
 }
 
